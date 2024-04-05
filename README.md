@@ -10,7 +10,7 @@ git clone https://github.com/cj-mills/sentis-inference-yolox-demo.git
 ```
 2. Open the project in Unity.
 
-3. Explore the sample scene and scripts.
+3. Explore the sample scene and [scripts](https://github.com/cj-mills/sentis-inference-yolox-demo/tree/main/Assets/Scripts).
 
 
 ## Train a Custom Model
